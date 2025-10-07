@@ -1,0 +1,1 @@
+# Oracle-APEX-Mandatory-Field-Validation-Dynamic-Action-
