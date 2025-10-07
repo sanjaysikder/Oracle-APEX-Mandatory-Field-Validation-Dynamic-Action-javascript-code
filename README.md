@@ -1,4 +1,4 @@
-# 🔒 Oracle APEX — Mandatory Field Validation (Dynamic Action)
+# 🔒 Oracle APEX — Mandatory Field Validation (Dynamic Action) -javascript-code
 
 - This script checks that all mandatory fields are filled before running an Insert Process (or any PL/SQL process) in Oracle APEX.
 - If any required field is empty, it highlights the missing fields in red and prevents further execution.
